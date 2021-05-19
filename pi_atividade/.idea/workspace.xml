@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37e4bef7-04c4-43d5-ace0-7cc77b57f78a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../api_atividade/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../api_atividade/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api_atividade/atividades.db" beforeDir="false" afterPath="$PROJECT_DIR$/../api_atividade/atividades.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api_atividade/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../api_atividade/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api_atividade/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../api_atividade/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api_atividade/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../api_atividade/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="37e4bef7-04c4-43d5-ace0-7cc77b57f78a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
